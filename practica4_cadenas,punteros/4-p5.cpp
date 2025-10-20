@@ -26,7 +26,7 @@ int main()
 
     cout << "\n--- Orden Reportado ---\n";
     // Formato solicitado: Apellido paterno, apellido materno y nombre.
-    cout << ap_paterno << ", " << ap_materno << " y " << nombre << endl;
+    cout << ap_paterno <<" " << ap_materno << " , " << nombre << endl;
 
     return 0;
 }
