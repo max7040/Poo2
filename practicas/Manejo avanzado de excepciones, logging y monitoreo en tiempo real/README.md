@@ -7,10 +7,6 @@
 
 ## 📚 Curso
 **Programación Orientada a Objetos II**
-
-## ⏱️ Duración
-**2 horas**
-
 ---
 
 ## 🎯 Objetivos
@@ -51,14 +47,3 @@
 1. 📘 Investigar y documentar **3 librerías profesionales de logging** en *C++* (ejemplo: `spdlog`, `Boost.Log`, `log4cpp`).  
 2. ⚙️ Explicar cómo se integran con **herramientas de monitoreo en tiempo real** (*Grafana*, *Kibana*, *Prometheus*).  
 3. 📝 Adjuntar un **informe en Word** con comparaciones y ejemplos de uso.
-
----
-
-## 💻 Archivos de Código
-
-⚙️ [Excepciones.cpp](./Excepciones.cpp)  
-🧾 [Logging.cpp](./Logging.cpp)  
-📈 [Monitoreo.cpp](./Monitoreo.cpp)
-
-> [!NOTE]
-> 💡 Una vez que subas tus archivos de código y tu informe en Word, asegúrate de que los enlaces correspondan a su ubicación dentro del repositorio.
