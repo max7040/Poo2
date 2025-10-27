@@ -30,7 +30,7 @@ public:
     void mostrar(int nivel = 0) override {
         cout << string(nivel, '=') << "Carpeta: " << nombre << endl;
         for (auto e : elementos)
-            e->mostrar(nivel + 2);
+            e->mostrar(nivel + 3);
     }
     ~Carpeta() {
         for (auto e : elementos)
