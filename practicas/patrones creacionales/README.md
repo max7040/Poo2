@@ -34,5 +34,5 @@
 - 🔸 Investigar cómo **Django ORM** usa *Factory* para construir modelos.  
 - 🔸 Identificar cómo **Spring Boot** usa *Singleton* en el manejo de *Beans*.  
 - 🔸 Comparar uso de **Builder** en bibliotecas de UI como *Tkinter* y *Qt*.
-- Trabajo en Latex[Ver en overlife](./https://es.overleaf.com/8431328486nmxcbzgtvtxg#fbfd9d)
+- Trabajo en Latex[Ver en overlife](https://es.overleaf.com/8431328486nmxcbzgtvtxg#fbfd9d)
 ---
