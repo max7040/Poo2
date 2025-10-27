@@ -38,4 +38,4 @@ Aplicar patrones estructurales en **C++** y **Python** para mejorar la **modular
 
 - 🔸 Revisar cómo **Qt** y **Java Swing** aplican el patrón *Composite*.  
 - 🔸 Investigar el uso de **Decorator** en *Flask (Python)* para el manejo de rutas.
-- Trabajo en Latex [ver en Overleaf](./https://www.overleaf.com/read/wzbzjgpjqgpp#195b17)
+- Trabajo en Latex [ver en Overleaf](https://www.overleaf.com/read/wzbzjgpjqgpp#195b17)
