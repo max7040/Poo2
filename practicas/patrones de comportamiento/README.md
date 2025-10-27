@@ -39,4 +39,4 @@ Implementar patrones de comportamiento que gestionen la comunicación entre obje
 - 🔸 Investigar cómo **Android LiveData** implementa el patrón *Observer*.  
 - 🔸 Analizar el uso de *Strategy* en librerías de **IA** (ejemplo: selección de optimizadores en *PyTorch*).  
 - 🔸 Explorar cómo *Command* se usa en **videojuegos** para gestionar acciones del jugador.
-- Trabajo en Latex  [Ver en Overleaf](./https://www.overleaf.com/read/zrhjdwqpfsrm#be3bfd)
+- Trabajo en Latex  [Ver en Overleaf](https://www.overleaf.com/read/zrhjdwqpfsrm#be3bfd)
